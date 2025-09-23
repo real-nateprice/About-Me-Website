@@ -1,0 +1,40 @@
+body{
+  font: 16px Arial, sans-serif;
+}
+
+table{
+  border: 1px solid black;
+}
+
+th, td{
+  border: 1px solid black;
+  padding: 3px;
+}
+
+.engl{
+  background-color: lightblue;
+}
+
+.phil{
+  background-color: lightgreen;
+}
+
+.cs{
+  background-color: lightpink;
+}
+
+.haiku{
+  text-align: center;
+}
+
+img{
+  float: right;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
